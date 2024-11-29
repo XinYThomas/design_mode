@@ -37,8 +37,8 @@ build/
 ### Mac OS ###
 .DS_Store
 
-.idea
+.idea/
 
-### 缓存 ###
+
 ._.*
 ._*
