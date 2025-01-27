@@ -1,4 +1,13 @@
 package design.Bridge.remotes;
 
-public class Remote {
+public interface Remote {
+    void power();
+
+    void volumeDown();
+
+    void volumeUp();
+
+    void channelDown();
+
+    void channelUp();
 }
